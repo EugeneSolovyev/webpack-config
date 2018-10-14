@@ -1,2 +1,2 @@
 import './style.sass'
-console.localStorage('build');npm
+console.log('build');
